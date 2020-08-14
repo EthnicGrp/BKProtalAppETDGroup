@@ -1972,6 +1972,29 @@ section.lazy-placeholder:after {
   text-align: center;
   color: #ffffff;
 }
+.cid-s7CD2u8GZQ {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-s7CD2u8GZQ .line {
+  background-color: #2e2e2e;
+  color: #2e2e2e;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-s7CD2u8GZQ .section-text {
+  padding: 2rem 0;
+}
+.cid-s7CD2u8GZQ .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-s7CD2u8GZQ .inner-container {
+    width: 100% !important;
+  }
+}
 .cid-s6YQ7Lkm3l {
   padding-top: 15px;
   padding-bottom: 15px;
