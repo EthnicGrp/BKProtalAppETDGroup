@@ -984,6 +984,31 @@ section.lazy-placeholder:after {
 .cid-s6Y28LTa0e .mbr-overlay ~ .container-slide {
   z-index: auto;
 }
+.cid-s893UFyQ7T {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-s893UFyQ7T .line {
+  background-color: #2e2e2e;
+  color: #2e2e2e;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-s893UFyQ7T .section-text {
+  padding: 2rem 0;
+  text-align: center;
+  color: #2e2e2e;
+}
+.cid-s893UFyQ7T .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-s893UFyQ7T .inner-container {
+    width: 100% !important;
+  }
+}
 .cid-s6Ydgo700D .google-map {
   height: 25rem;
   position: relative;
